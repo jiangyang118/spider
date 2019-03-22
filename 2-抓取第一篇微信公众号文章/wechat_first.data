@@ -1,0 +1,34 @@
+
+#copy url
+https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MjAxNDM4MA==&scene=126&bizpsid=1553233877&sessionid=1553233877&subscene=0&devicetype=iOS12.1.4&version=17000329&lang=zh_CN&nettype=WIFI&a8scene=0&fontScale=100&pass_ticket=NqOMSpSgkqt7TbKCa5PTGIIpnzJAF62XnhxKoXaomMNOZXeRivMUoIIh4SEk2vEl&wx_header=1
+
+#copy header
+GET https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MjAxNDM4MA==&scene=126&bizpsid=1553233877&sessionid=1553233877&subscene=0&devicetype=iOS12.1.4&version=17000329&lang=zh_CN&nettype=WIFI&a8scene=0&fontScale=100&pass_ticket=NqOMSpSgkqt7TbKCa5PTGIIpnzJAF62XnhxKoXaomMNOZXeRivMUoIIh4SEk2vEl&wx_header=1 HTTP/1.1
+Host: mp.weixin.qq.com
+Cookie: devicetype=iOS12.1.4; lang=zh_CN; pass_ticket=NqOMSpSgkqt7TbKCa5PTGIIpnzJAF62XnhxKoXaomMNOZXeRivMUoIIh4SEk2vEl; version=17000329; wap_sid2=CITbl7QCElxqZXBLR1RhYTBVeFk2ZnVaM2hyQmZWS2RFT3FUZEkwaFVKSmZKX25kbVRkbVhQSHF1WFpCLTBnVi1OSG1lRk9qc0kzSzFyOHZVQVlhX2ZNSFZRcVdldWtEQUFBfjCC9dHkBTgNQJVO; wxuin=646311300; wxtokenkey=777; rewardsn=; pgv_pvid=8969838003; pgv_pvi=60331008; _scan_has_moon=1; ts_uid=3719156268; tvfe_boss_uuid=5682fb061e2059e3; sd_cookie_crttime=1545398450253; sd_userid=35071545398450253
+X-WECHAT-KEY: 3ab2ebf7938f0c885d94f23ebbfab9475d3ee268c159dad9377cee9ad6b6a86fa71538b1a0c7caeca92b54ee8e76fd78fd6594aef35c48a88376a937f25c65a11516320624d36e9d5f73ba4b7127f4d3
+X-WECHAT-UIN: NjQ2MzExMzAw
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Accept-Language: zh-cn
+Accept-Encoding: br, gzip, deflate
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+Content-Security-Policy: frame-ancestors 'self' http://wx.qq.com https://wx.qq.com http://wx2.qq.com https://wx2.qq.com  http://wx8.qq.com https://wx8.qq.com http://web.wechat.com https://web.wechat.com http://web1.wechat.com https://web1.wechat.com http://web2.wechat.com https://web2.wechat.com http://sticker.weixin.qq.com https://sticker.weixin.qq.com http://bang.qq.com https://bang.qq.com http://app.work.weixin.qq.com https://app.work.weixin.qq.com http://work.weixin.qq.com https://work.weixin.qq.com http://finance.qq.com https://finance.qq.com http://gu.qq.com https://gu.qq.com http://wzq.tenpay.com https://wzq.tenpay.com;report-uri https://mp.weixin.qq.com/mp/fereport?action=csp_report
+RetKey: 14
+LogicRet: 0
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=0
+Set-Cookie: wxuin=646311300; Path=/; HttpOnly
+Set-Cookie: devicetype=iOS12.1.4; Path=/
+Set-Cookie: version=17000329; Path=/
+Set-Cookie: lang=zh_CN; Path=/
+Set-Cookie: pass_ticket=NqOMSpSgkqt7TbKCa5PTGIIpnzJAF62XnhxKoXaomMNOZXeRivMUoIIh4SEk2vEl; Path=/; HttpOnly
+Set-Cookie: wap_sid2=CITbl7QCElxqZXBLR1RhYTBVeFk2ZnVaM2hyQmZUZnVVU25vMXlSZUxuQnRBLVY1LWV5MTl2QlZoSFp0MHNzNU9ZMk1zT1BjMzdPd1ZibkFQa3hNMHp6dXZyLU9HdWtEQUFBfjClhNLkBTgNQJVO; Path=/; HttpOnly
+MMLAS-VERIFYRESULT: CAE=
+Connection: keep-alive
+Content-Length: 47582
+
+
