@@ -1,0 +1,25 @@
+GET https://mp.weixin.qq.com/mp/profile_ext?action=getmsg&__biz=MjM5MjAxNDM4MA==&f=json&offset=30&count=10&is_ok=1&scene=126&uin=777&key=777&pass_ticket=NqOMSpSgkqt7TbKCa5PTGIIpnzJAF62XnhxKoXaomMNOZXeRivMUoIIh4SEk2vEl&wxtoken=&appmsg_token=1001_%252FokhvqfZNukcvwxPCjtAu4KMeqBjDjU-40laGg~~&x5=0&f=json HTTP/1.1
+Host: mp.weixin.qq.com
+Accept-Encoding: br, gzip, deflate
+Cookie: devicetype=iOS12.1.4; lang=zh_CN; pass_ticket=NqOMSpSgkqt7TbKCa5PTGIIpnzJAF62XnhxKoXaomMNOZXeRivMUoIIh4SEk2vEl; version=17000329; wap_sid2=CITbl7QCElxDcVVSblZ5Y3NnVkwxblE4NUZsNGNOVm9Dd05YVnprZWQtdFVSYVQxYk9Edmx0bEVBZWNuWXhyVmRXVjctczZfX1BCdVphZzNBZV9YRmJPNTYwTUF2ZWtEQUFBfjCDqNLkBTgNQJVO; wxuin=646311300; wxtokenkey=777; rewardsn=; pgv_pvid=8969838003; pgv_pvi=60331008; _scan_has_moon=1; ts_uid=3719156268; tvfe_boss_uuid=5682fb061e2059e3; sd_cookie_crttime=1545398450253; sd_userid=35071545398450253
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_1_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16D57 MicroMessenger/7.0.3(0x17000321) NetType/WIFI Language/zh_CN
+Referer: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MjAxNDM4MA==&scene=126&bizpsid=1553240795&sessionid=1553240795&subscene=0&devicetype=iOS12.1.4&version=17000329&lang=zh_CN&nettype=WIFI&a8scene=0&fontScale=100&pass_ticket=NqOMSpSgkqt7TbKCa5PTGIIpnzJAF62XnhxKoXaomMNOZXeRivMUoIIh4SEk2vEl&wx_header=1
+Accept-Language: zh-cn
+X-Requested-With: XMLHttpRequest
+
+
+HTTP/1.1 200 OK
+Content-Security-Policy: frame-ancestors 'self' http://wx.qq.com https://wx.qq.com http://wx2.qq.com https://wx2.qq.com  http://wx8.qq.com https://wx8.qq.com http://web.wechat.com https://web.wechat.com http://web1.wechat.com https://web1.wechat.com http://web2.wechat.com https://web2.wechat.com http://sticker.weixin.qq.com https://sticker.weixin.qq.com http://bang.qq.com https://bang.qq.com http://app.work.weixin.qq.com https://app.work.weixin.qq.com http://work.weixin.qq.com https://work.weixin.qq.com http://finance.qq.com https://finance.qq.com http://gu.qq.com https://gu.qq.com http://wzq.tenpay.com https://wzq.tenpay.com;report-uri https://mp.weixin.qq.com/mp/fereport?action=csp_report
+RetKey: 14
+LogicRet: 0
+Content-Type: application/json; charset=UTF-8
+Cache-Control: no-cache, must-revalidate
+Strict-Transport-Security: max-age=0
+Content-Encoding: deflate
+MMLAS-VERIFYRESULT: CAE=
+Connection: keep-alive
+Content-Length: 7411
+
+
