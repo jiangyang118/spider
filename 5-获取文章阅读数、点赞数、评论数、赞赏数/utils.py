@@ -48,7 +48,6 @@ def str_to_dict(s, join_symbol="\n", split_symbol=":"):
             data[k] = v.strip()
     return data
 
-
 if __name__ == '__main__':
     d = {"a": "1", "b": "2", "c": "3"}
     print(sub_dict(d, ["a", "b"]))
